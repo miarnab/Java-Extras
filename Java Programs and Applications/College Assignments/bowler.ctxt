@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=bowler
+comment1.params=
+comment1.target=bowler()
+comment2.params=b1\ c1\ runs1\ wickets1\ inn1
+comment2.target=void\ accept(int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ calculate()
+numComments=4

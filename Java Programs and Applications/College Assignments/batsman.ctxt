@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=batsman
+comment1.params=
+comment1.target=batsman()
+comment2.params=a1\ r1\ in1
+comment2.target=void\ accept(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ calculate()
+numComments=4

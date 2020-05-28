@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=worker
+comment1.params=
+comment1.target=worker()
+comment2.params=name3\ age3\ address3\ ndays1\ wages1
+comment2.target=worker(java.lang.String,\ int,\ java.lang.String,\ int,\ double)
+comment3.params=
+comment3.target=void\ display()
+numComments=4
