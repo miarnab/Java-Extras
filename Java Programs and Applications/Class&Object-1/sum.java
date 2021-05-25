@@ -1,33 +1,25 @@
-
-/**
- * Write a description of class sum here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
-public class sum
-{
-    // instance variables - replace the example below with your own
-    private int x;
-
-    /**
-     * Constructor for objects of class sum
-     */
-    public sum()
+import java.io.*;
+class sum
+{   int a;
+    int b;
+    int s;
+    sum()
     {
-        // initialise instance variables
-        x = 0;
+        a=0;
+        b=0;
+        s=0;
     }
-
-    /**
-     * An example of a method - replace this comment with your own
-     * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
-     */
-    public int sampleMethod(int y)
+    void input(int x,int y)
     {
-        // put your code here
-        return x + y;
+        a=x;
+        b=y;
+    }
+    void cal()
+    {
+        s=a+b;
+    }
+    void disp()
+    {
+        System.out.println("Sum="+s);
     }
 }
